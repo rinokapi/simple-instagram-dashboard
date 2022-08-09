@@ -4,7 +4,7 @@ React native prototype app based on instagram dashboard
 
 ## 📱 Preview
 
-App function preview
+App function preview (gif image below)
 
 ![App demo](./assets/preview/insta-view.gif)
 
